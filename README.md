@@ -11,3 +11,8 @@ In this project I will implement the CycleGAN to convert sketches into photograp
 Feel free to follow along with the Medium article: https://medium.com/@vinayasharmaa/i-made-an-ai-turn-me-into-an-artist-4ed6534284c5
 And check out this video where I break down the code and show off the completed model: https://www.youtube.com/watch?v=3xxbl-yon1M
 
+[![Youtube Video](http://img.youtube.com/vi/3xxbl-yon1M/0.jpg)](http://www.youtube.com/watch?v=3xxbl-yon1M "I Made an AI Turn me Into an Artist")
+
+
+
+
